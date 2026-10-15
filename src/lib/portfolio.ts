@@ -27,7 +27,7 @@ export const expertise = [
 ];
 
 export const about = {
-  intro: 'A service-first mindset.<br/>Calm, clear, and always learning.',
+  intro: 'A service-first mindset. Calm, clear, and always learning.',
   copy: [
     "I'm Hope — a customer service professional who started at the front-of-house counter and moved into high-volume live chat support for DStv, GoTV, and Showmax.",
     'I believe good service starts with <strong>listening properly</strong>. Whether it is a billing query, a technical fault, or someone who just needs guiding through their options, my aim is to resolve it at the first contact and leave the customer better than I found them.',
